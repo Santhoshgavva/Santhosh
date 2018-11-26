@@ -1,0 +1,23 @@
+https://bit.ly/2nhKGAQ
+user - devops
+pwd - Dev0p$!!/
+
+52.91.80.132
+github
+santhoshgavva
+santhosh.gavva@ril.com
+liOn$2020
+scm - Source Control Management
+git hub - Distributor version control system
+https://github.com/albertlovescloud/rildevopstraining
+
+git gub:
+
+1. create repo
+2. Clone repo
+3. Create branch(this is required before making changes)
+4. Modify code
+5. git add-commit-push
+6. create a pull request
+7.
+5. 
